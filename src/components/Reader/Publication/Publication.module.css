@@ -1,0 +1,17 @@
+.article {
+  margin-bottom: 20px;
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 0 10px;
+  color: #ed213a;
+}
+
+.text {
+  margin: 0;
+  padding: 0 10px;
+  text-align: left;
+  color: #bdc3c7;
+}

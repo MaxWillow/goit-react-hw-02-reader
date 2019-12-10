@@ -1,0 +1,28 @@
+.section {
+  width: 220px;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  border: none;
+  outline: none;
+  background: #f5af19;
+  padding: 10px 30px;
+  cursor: pointer;
+  color: #ed213a;
+  font-size: 20px;
+  border-radius: 20px;
+}
+
+.button:hover {
+  background: #ed213a;
+  color: #f5af19;
+}
+
+.button:disabled {
+  background: #6b6b83;
+  color: #1f4037;
+  cursor: default;
+}
